@@ -1,3 +1,4 @@
 Hi, I'm Luthfi aka LuthMC.
 
-[![LuthMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuthMC)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuthMC&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuthMC&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuthMC&theme=transparent)
